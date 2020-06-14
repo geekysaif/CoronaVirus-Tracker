@@ -25,7 +25,7 @@
 </table>
 
 ## About
-- It simply loads **Total COVID19 cases in India** from [API](https://github.com/covid19india/api). 
+- It simply loads **Total COVID19 cases in India**  
 - It notifies total cases of COVID19 in India after every 1 hours.
 - It is offline capable (Using Cache) 😃.
 
