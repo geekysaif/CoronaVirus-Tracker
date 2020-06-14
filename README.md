@@ -2,10 +2,10 @@
   <img src="art/icon.png" height="200"/>
 </p>
 
-# COVID19 Notifier - India 🇮🇳
+# COVID19 Tracker - India 🇮🇳
 
  
-**Covid19 Notifier India** is a sample Android application 📱 built to demonstrate use of *Modern Android development* tools. Dedicated to all Android Developers with ❤️. 
+**Covid19 Tracker India** is a sample Android application 📱 built to demonstrate use of *Modern Android development* tools. Dedicated to all Android Developers with ❤️. 
 
 
 
