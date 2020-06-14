@@ -13,11 +13,15 @@
   <tr>
     <th>Main Screen (Total Report)</th>
     <th>Main Screen (State Report List)</th>
+    <th>Preventions Screen</th>
+    <th>Helpline Numbers Screen</th>
     <th>Notification in the System Tray</th>
   </tr>
   <tr>
     <td><img src="art/home.jpg"/></td>
     <td><img src="art/states.jpg"/></td> 
+      <td><img src="art/screenshot_3.png"/></td> 
+    <td><img src="art/screenshot_4.png"/></td>
     <td><img src="art/notification.jpg"/></td>
   </tr>
 </table>
