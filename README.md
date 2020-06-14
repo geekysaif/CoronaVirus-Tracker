@@ -18,7 +18,7 @@
     <th>Notification in the System Tray</th>
   </tr>
   <tr>
-    <td><img src="art/home.jpg"/></td>
+    <td><img src="art/screenshot_2.png"/></td>
     <td><img src="art/states.jpg"/></td> 
       <td><img src="art/screenshot_3.png"/></td> 
     <td><img src="art/screenshot_4.png"/></td>
